@@ -5,7 +5,7 @@ Welcome to my profile. Here are some quick facts about me:
 - I'm currently working on a ADAS specially in RADAR section.
 - 👀 I’m currently in progress to master Machine Learning and Deep Learning to appply in the industry of automotive.
 - 🌱 I’m looking to collaborate on any of open source projects related to python and data science.
-- 💞 Ask me anything related to the data.
+- 💞 Let's talk some about Data Science.
 - 📫 How to reach me: [Rajat Joshi](https://www.linkedin.com/in/rajat-joshi/)
 
 <!---
